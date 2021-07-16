@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+## Project DB setup
+```
+npm install -g json-server 
+```
+
+## Pull
+```
+git pull origin master 
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
