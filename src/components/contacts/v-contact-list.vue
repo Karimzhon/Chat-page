@@ -6,7 +6,6 @@
             :contact_data="contact"
             @to-contact-info="toContactInfo(contact)"
         />
-        {{contacts}}
     </div>
 </template>
 
